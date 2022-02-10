@@ -1,0 +1,38 @@
+<annotation>
+	<folder>export</folder>
+	<filename>8949.jpg</filename>
+	<path>C:\Users\tegve\Self Driving Car.v3-fixed-small.tensorflow\export\8949.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>433</xmin>
+			<ymin>139</ymin>
+			<xmax>458</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>157</ymin>
+			<xmax>435</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
