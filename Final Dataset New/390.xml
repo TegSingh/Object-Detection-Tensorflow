@@ -1,0 +1,38 @@
+<annotation>
+	<folder>export</folder>
+	<filename>446.jpg</filename>
+	<path>C:\Users\Clarissa\capstone\Dataset\Self Driving Car.v3-fixed-small.tensorflow\export\446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>200</ymin>
+			<xmax>309</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>246</ymin>
+			<xmax>78</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

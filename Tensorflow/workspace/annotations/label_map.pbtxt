@@ -1,0 +1,36 @@
+item { 
+	name:'Car'
+	id:1
+}
+item { 
+	name:'Truck'
+	id:2
+}
+item { 
+	name:'Pedestrian'
+	id:3
+}
+item { 
+	name:'Bus'
+	id:4
+}
+item { 
+	name:'Sign'
+	id:5
+}
+item { 
+	name:'TrafficLight'
+	id:6
+}
+item { 
+	name:'FireHydrant'
+	id:7
+}
+item { 
+	name:'Bicycle'
+	id:8
+}
+item { 
+	name:'Motorcycle'
+	id:9
+}

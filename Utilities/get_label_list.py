@@ -28,6 +28,7 @@ def main():
                 label_name = x.find('name').text
                 labels[label_name] = 0
 
+
     for i in range(file_count):
 
         file_name = files[i].split(".")[0]
@@ -41,9 +42,12 @@ def main():
             for x in root.findall('object'):
                 label_name = x.find('name').text
                 labels[label_name] += 1
+                if label_name == "Motorcycle":
+                    print(file_name)
 
     print("Number of Label XML files: " + str(count_xml))
-    print(labels)
+    for i in labels.items():
+	    print(i)
 
 
 if __name__ == '__main__':

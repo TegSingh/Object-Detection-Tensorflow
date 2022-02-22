@@ -1,0 +1,14 @@
+<annotation>
+	<folder>export</folder>
+	<filename>14647.jpg</filename>
+	<path>C:\Users\tegve\Self Driving Car.v3-fixed-small.tensorflow\export\14647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
